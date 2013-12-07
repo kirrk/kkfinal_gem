@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'kkfinal_gem'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2013-12-01'
   s.summary     = "Format US Phone Number!"
   s.description = "A US phone number formatter gem"
