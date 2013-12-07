@@ -5,3 +5,4 @@ require 'kkfinal_gem'
 p = PhoneFormatter.new
 	p.formatter
 	p.formatPhoneStrg ARGV.first
+	
