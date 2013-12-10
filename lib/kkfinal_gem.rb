@@ -8,7 +8,7 @@ class PhoneFormatter
 	def formatPhoneStrg (num)
 	
     digits = num.insert(-5,'-').insert(-9,'-')
-    if (digits.length==13 && digits[0] == '1')
+    if (digits.length ==13 && digits[0] == '1')
     	num.insert(-13, '-') end
    return digits
 	end
